@@ -1,2 +1,3 @@
-# Predicting_NHL_Salaries
-Final project for graduate level statistical learning course.
+# Predicting NHL Player Salaries
+
+This project aims to build statistical learning models that will predict the salaries of NHL players during the 2016-2017 NHL season. The project explores linear models including ridge regression and LASSO regression, as well as, non-linear models including kernel smoothing regression, XGBoost regression and decision tree regression. K-fold cross-validation is used to rigorously test and evaluate the models. The LASSO regression model is the most optimal model as judged by root mean squared error, with an RMSE of 1447595. These results can be used by sports agents and general managers to accurately determine the value of their athletes salaries.
